@@ -1,0 +1,18 @@
+.banner {
+  background-image: url("https://source.unsplash.com/random/");
+  background-size: cover;
+  background-position: center;
+  height: 500px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.banner p, h1 {
+  color: white;
+  text-shadow: 1px 1px 1px black;
+}
+
+.banner p{
+  padding-bottom: 1em;
+}
